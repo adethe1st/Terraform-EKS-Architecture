@@ -14,4 +14,4 @@ The connections on the EKS node group will be done via the Bastion host, as expe
 Kubectl commands can be run once you SSH-ed into the node groups to test whether or not it is running.
 
 
-![EKS](EKS(1).svg)
+![EKS](EKS (1).svg)
